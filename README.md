@@ -1,6 +1,7 @@
 # Cards
 
-**TODO: Add description**
+## Description
+This is a small elixir module that can be used to generate a deck of cards to memory and shuffle them. Used to explain Immutibility in elixir.
 
 ## Installation
 
